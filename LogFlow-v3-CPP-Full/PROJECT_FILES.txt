@@ -1,0 +1,14 @@
+ARCHITECTURE.md
+CMakeLists.txt
+README.md
+data/sample.log
+src/FileLineSource.hpp
+src/FileSink.hpp
+src/LogRecord.hpp
+src/ParserStage.hpp
+src/Pipeline.hpp
+src/PipelineBuilder.hpp
+src/PredicateFilterStage.hpp
+src/ProjectionStage.hpp
+src/main.cpp
+tests/tests.cpp
